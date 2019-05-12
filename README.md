@@ -1,5 +1,7 @@
 # Blog
 
+## Website Optimization
+- [Performance Implications of Application Architecture (Google I/O ’19)](https://github.com/Clarencef/blog/issues/6)
 ## Linux
 - [Linux commands](https://github.com/Clarencef/blog/issues/3)
 
