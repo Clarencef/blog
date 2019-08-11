@@ -6,7 +6,7 @@
 ## Website Optimization
 - [Performance Implications of Application Architecture (Google I/O ’19)](https://github.com/Clarencef/blog/issues/6) ```2019/05/12```
 ## Linux
-- [Linux commands](https://github.com/Clarencef/blog/issues/3)
+- [Linux commands](https://github.com/Clarencef/blog/issues/3) ```2019/04/20```
 
 ## How to programming
 - [學習資源](https://github.com/Clarencef/blog/issues/4)
