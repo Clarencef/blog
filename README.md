@@ -1,7 +1,7 @@
 # Blog
 
 ## Javascript
-- [Javascript: The Recent parts](https://github.com/Clarencef/blog/issues/7)
+- [Javascript: The Recent parts](https://github.com/Clarencef/blog/issues/7)```2019/05/16```
 
 ## Website Optimization
 - [Performance Implications of Application Architecture (Google I/O ’19)](https://github.com/Clarencef/blog/issues/6) ```2019/05/12```
