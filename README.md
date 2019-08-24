@@ -10,7 +10,7 @@
 - [Linux commands](https://github.com/Clarencef/blog/issues/3) ```2019/04/20```
 
 ## How to programming
-- [學習資源](https://github.com/Clarencef/blog/issues/4)
+- [學習資源](https://github.com/Clarencef/blog/issues/4) ```2019/08/24```
 
 ## Security
 - [Content Security Policy](https://github.com/Clarencef/blog/issues/5) ```2019/05/11```
